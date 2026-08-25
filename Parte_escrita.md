@@ -111,3 +111,7 @@ Nota: **A no se conecta a ninguna compuerta** —
 ## 6. Implementación en Protoboard
 
 <img src="Foto2.jpg">
+
+<br>
+
+<img src="Foto1.jpg">
