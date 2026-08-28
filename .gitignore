@@ -1,2 +1,2 @@
 Proyecto_Verilog/Informe_escrito/Informe_video.mp4
-*.mp4
+echo "Proyecto_Verilog/Informe_escrito/Informe_video.mp4" >> .gitignore

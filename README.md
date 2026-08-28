@@ -3,6 +3,6 @@
 
 ### Aclaracion sobre los repositorios y los trabajos ###
 
-Profe recuerde que en clase le comente que tenia los repositorios al reves, entonces en un intento de que quede todo mejor organizado, en este respositorio hay una carpeta para la parte practica del parcial y otra carpeta para el proyecto de Verilog. Espero que no hayan enredos con ambos trabajos pero si le aseguro que en este repositorio estan ambos trabajos completamente realizados. Perdon profe por la confusion, mil gracias.
+Profe, recuerde que en clase le comenté que tenía los repositorios al revés. En un intento de que todo quede mejor organizado, en este repositorio hay una carpeta para la parte práctica del parcial y otra para el proyecto de Verilog. Espero que no haya confusión con ambos trabajos, pero le aseguro que en este repositorio están ambos completamente realizados. Perdón, profe, por la confusión. Mil gracias.
 
 #### Nicolás Fernández Barreto ####
