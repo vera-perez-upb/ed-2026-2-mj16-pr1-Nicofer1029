@@ -1,0 +1,16 @@
+module Compuertas(iB,iC,iD,oY); 
+input iA,iB,iC; 
+output oY; 
+wire 
+
+and g1(oW,iA,iB,iC);		//Compuerta AND 3-In 
+nand g2(oW,iA,iB,iC);		//Compuerta NAND 3-In 
+or g3(oX,iA,iB,iC);			//Compuerta OR 3-In 
+nor g4(oX,iA,iB,iC);		//Compuerta NOR 3-In 
+not g5(oY,iA);				  //Compuerta NOT 
+not g6(oY,iB);			    //Compuerta NOT 
+not g7(oY,iC);			    //Compuerta NOT 
+xor g8(oZ,iA,iB,iC);		//Compuerta OREX 3-In 
+xnor g9(oZ,iA,iB,iC);		//Compuerta NOREX 3-In 
+
+endmodule

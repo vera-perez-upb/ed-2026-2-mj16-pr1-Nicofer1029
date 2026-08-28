@@ -1,0 +1,10 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/nicof/Documents/Electronica_digital/VeriLog/Ejercicio9/Operadores_logicos/Ejercicio9_OL.v
+source_file = 1, C:/Users/nicof/Documents/Electronica_digital/VeriLog/Ejercicio9/Operadores_logicos/db/Ejercicio9_OL.cbx.xml
+design_name = Ejercicio9_OL
+instance = comp, \oY~output , oY~output, Ejercicio9_OL, 1
+instance = comp, \iC~input , iC~input, Ejercicio9_OL, 1
+instance = comp, \iD~input , iD~input, Ejercicio9_OL, 1
+instance = comp, \iB~input , iB~input, Ejercicio9_OL, 1
+instance = comp, \oY~0 , oY~0, Ejercicio9_OL, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, Ejercicio9_OL, 1

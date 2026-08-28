@@ -1,0 +1,26 @@
+module Ejercicio9_PU(oY,iB,iC,iD);  
+input iB,iC,iD;  
+output oY; 
+ 
+Funcion_Y (oY,iB,iC,iD); 
+ 
+endmodule 
+ 
+ 
+primitive Funcion_Y (Y,B,C,D);  
+output Y;  
+input B,C,D;  
+ 
+table 
+ 
+    0 0 0 : 1; 
+    0 0 1 : 0; 
+    0 1 0 : 1; 
+    0 1 1 : 0; 
+    1 0 0 : 0; 
+    1 0 1 : 0; 
+    1 1 0 : 1; 
+    1 1 1 : 1; 
+	  
+endtable 
+endprimitive
