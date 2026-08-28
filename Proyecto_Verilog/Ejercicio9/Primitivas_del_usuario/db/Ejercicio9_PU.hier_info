@@ -1,0 +1,15 @@
+|Ejercicio9_PU
+oY << Funcion_Y:comb_3.port0
+iB => iB.IN1
+iC => iC.IN1
+iD => iD.IN1
+
+
+|Ejercicio9_PU|Funcion_Y:comb_3
+Y <= comb.DB_MAX_OUTPUT_PORT_TYPE
+B => comb.IN0
+B => comb.IN0
+C => comb.IN1
+D => comb.IN1
+
+

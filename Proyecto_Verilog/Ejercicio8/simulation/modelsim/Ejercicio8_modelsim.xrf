@@ -1,0 +1,12 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/nicof/Documents/Electronica_digital/VeriLog/Ejercicio8/Ejercicio8.bdf
+source_file = 1, C:/Users/nicof/Documents/Electronica_digital/VeriLog/Ejercicio8/db/Ejercicio8.cbx.xml
+design_name = Ejercicio8
+instance = comp, \cw~output , cw~output, Ejercicio8, 1
+instance = comp, \cx~output , cx~output, Ejercicio8, 1
+instance = comp, \cy~output , cy~output, Ejercicio8, 1
+instance = comp, \cz~output , cz~output, Ejercicio8, 1
+instance = comp, \B~input , B~input, Ejercicio8, 1
+instance = comp, \A~input , A~input, Ejercicio8, 1
+instance = comp, \C~input , C~input, Ejercicio8, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, Ejercicio8, 1

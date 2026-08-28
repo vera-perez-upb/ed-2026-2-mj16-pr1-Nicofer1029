@@ -1,0 +1,8 @@
+|Ejercicio9_OL
+iB => oY.IN0
+iB => oY.IN0
+iC => oY.IN1
+iD => oY.IN1
+oY << oY.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,47 @@
+|Ejercicio7
+oAND << MiAND:comb_3.port0
+oOR << MiOR:comb_4.port0
+oNOT << MiNOT:comb_5.port0
+oOREX << MiOREX:comb_6.port0
+iA => iA.IN3
+iB => iB.IN4
+iC => iC.IN3
+
+
+|Ejercicio7|MiAND:comb_3
+X <= comb.DB_MAX_OUTPUT_PORT_TYPE
+A => comb.IN0
+B => comb.IN1
+C => comb.IN1
+
+
+|Ejercicio7|MiOR:comb_4
+X <= comb.DB_MAX_OUTPUT_PORT_TYPE
+A => comb.IN0
+A => comb.IN0
+B => comb.IN1
+B => comb.IN1
+C => comb.IN1
+
+
+|Ejercicio7|MiNOT:comb_5
+X <= A.DB_MAX_OUTPUT_PORT_TYPE
+A => X.DATAIN
+
+
+|Ejercicio7|MiOREX:comb_6
+X <= comb.DB_MAX_OUTPUT_PORT_TYPE
+A => comb.IN0
+A => comb.IN0
+A => comb.IN0
+A => comb.IN0
+B => comb.IN1
+B => comb.IN1
+B => comb.IN1
+B => comb.IN1
+C => comb.IN1
+C => comb.IN1
+C => comb.IN1
+C => comb.IN1
+
+

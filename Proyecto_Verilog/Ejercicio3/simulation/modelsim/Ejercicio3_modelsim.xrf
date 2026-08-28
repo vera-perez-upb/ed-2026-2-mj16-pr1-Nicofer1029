@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/nicof/Documents/Electronica_digital/VeriLog/Ejercicio3/Ejercicio3.v
+source_file = 1, C:/Users/nicof/Documents/Electronica_digital/VeriLog/Ejercicio3/db/Ejercicio3.cbx.xml
+design_name = Ejercicio3
+instance = comp, \oX~output , oX~output, Ejercicio3, 1
+instance = comp, \oY~output , oY~output, Ejercicio3, 1
+instance = comp, \iC~input , iC~input, Ejercicio3, 1
+instance = comp, \iB~input , iB~input, Ejercicio3, 1
+instance = comp, \iA~input , iA~input, Ejercicio3, 1
+instance = comp, \iD~input , iD~input, Ejercicio3, 1
+instance = comp, \oX~0 , oX~0, Ejercicio3, 1
+instance = comp, \oY~0 , oY~0, Ejercicio3, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, Ejercicio3, 1

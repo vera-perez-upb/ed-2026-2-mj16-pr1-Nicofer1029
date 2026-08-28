@@ -1,0 +1,11 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/nicof/Documents/Electronica_digital/Proyecto_Verilog/ed-2026-2-mj16-pr1-Nicofer1029/Proyecto_Verilog/Ejercicio2/Ejercicio2.v
+source_file = 1, C:/Users/nicof/Documents/Electronica_digital/Proyecto_Verilog/ed-2026-2-mj16-pr1-Nicofer1029/Proyecto_Verilog/Ejercicio2/db/Ejercicio2.cbx.xml
+design_name = Ejercicio2
+instance = comp, \oX~output , oX~output, Ejercicio2, 1
+instance = comp, \oY~output , oY~output, Ejercicio2, 1
+instance = comp, \iC~input , iC~input, Ejercicio2, 1
+instance = comp, \iB~input , iB~input, Ejercicio2, 1
+instance = comp, \iA~input , iA~input, Ejercicio2, 1
+instance = comp, \oX~0 , oX~0, Ejercicio2, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, Ejercicio2, 1

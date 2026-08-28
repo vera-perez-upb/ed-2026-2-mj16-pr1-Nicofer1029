@@ -1,0 +1,15 @@
+|Ejercicio3
+iA => oX.IN1
+iB => oX.IN0
+iB => oY.IN0
+iB => oX.IN0
+iB => oY.IN0
+iC => oX.IN1
+iC => oY.IN1
+iC => oY.IN1
+iD => oX.IN1
+iD => oY.IN1
+oX << oX.DB_MAX_OUTPUT_PORT_TYPE
+oY << oY.DB_MAX_OUTPUT_PORT_TYPE
+
+

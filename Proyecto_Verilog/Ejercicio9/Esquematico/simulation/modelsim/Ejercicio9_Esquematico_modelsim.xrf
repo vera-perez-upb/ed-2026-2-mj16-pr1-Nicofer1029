@@ -1,0 +1,10 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/nicof/Documents/Electronica_digital/VeriLog/Ejercicio9/Esquematico/Ejercicio9_Esquematico.bdf
+source_file = 1, C:/Users/nicof/Documents/Electronica_digital/VeriLog/Ejercicio9/Esquematico/db/Ejercicio9_Esquematico.cbx.xml
+design_name = Ejercicio9_Esquematico
+instance = comp, \oY~output , oY~output, Ejercicio9_Esquematico, 1
+instance = comp, \C~input , C~input, Ejercicio9_Esquematico, 1
+instance = comp, \D~input , D~input, Ejercicio9_Esquematico, 1
+instance = comp, \B~input , B~input, Ejercicio9_Esquematico, 1
+instance = comp, \inst2~0 , inst2~0, Ejercicio9_Esquematico, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, Ejercicio9_Esquematico, 1

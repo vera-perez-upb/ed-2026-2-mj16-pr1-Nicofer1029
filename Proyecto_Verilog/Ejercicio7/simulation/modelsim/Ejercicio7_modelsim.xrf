@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/nicof/Documents/Electronica_digital/VeriLog/Ejercicio7/Ejercicio7.v
+source_file = 1, C:/Users/nicof/Documents/Electronica_digital/VeriLog/Ejercicio7/db/Ejercicio7.cbx.xml
+design_name = Ejercicio7
+instance = comp, \oAND~output , oAND~output, Ejercicio7, 1
+instance = comp, \oOR~output , oOR~output, Ejercicio7, 1
+instance = comp, \oNOT~output , oNOT~output, Ejercicio7, 1
+instance = comp, \oOREX~output , oOREX~output, Ejercicio7, 1
+instance = comp, \iB~input , iB~input, Ejercicio7, 1
+instance = comp, \iA~input , iA~input, Ejercicio7, 1
+instance = comp, \iC~input , iC~input, Ejercicio7, 1
+instance = comp, \comb_3|comb~0 , comb_3|comb~0, Ejercicio7, 1
+instance = comp, \comb_4|X~0 , comb_4|X~0, Ejercicio7, 1
+instance = comp, \comb_6|X~0 , comb_6|X~0, Ejercicio7, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, Ejercicio7, 1
