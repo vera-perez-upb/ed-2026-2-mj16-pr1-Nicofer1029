@@ -78,6 +78,12 @@
 
 <br>
 
+### Funcion modelada en ModelSim Simulator ###
+
+<img src="Ejercicio9_Modelado.png">
+
+<br>
+
 # Enlace al infome en video #
 
 ## -> https://www.youtube.com/watch?v=bYEfYxalE5c ##
